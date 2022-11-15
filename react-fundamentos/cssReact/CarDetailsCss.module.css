@@ -1,0 +1,15 @@
+.all_elements{
+    background-color: rgba(128, 128, 128, 0.507);
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.brand_style{
+    font-size: 2em;
+    border: 2px solid black;
+}
+
+.other_informations{
+    font-size: 2em;
+}
